@@ -116,6 +116,6 @@ Good first issues are tagged [`good first issue`](https://github.com/YOUR_USERNA
 
 ## 📄 License
 
-MIT © [Your Name](https://github.com/YOUR_USERNAME)
+MIT © [sumit](https://github.com/sumit1894)
 
 </div>
