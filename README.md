@@ -9,7 +9,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![Built With](https://img.shields.io/badge/built%20with-React%20%2B%20Vite-61dafb) -->
 
-[Features](#features) • [Supported Portals](#supported-portals) • [Installation](#installation) • [Contributing](#contributing) • [Roadmap](#roadmap)
+[Features](#-features) • [Supported Portals](#-supported-portals) • [Installation](#-installation-development) • [Contributing](#-contributing) • [Roadmap](#️-roadmap)
 
 </div>
 
