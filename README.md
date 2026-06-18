@@ -57,7 +57,7 @@ No more typing your name, email, college, and LinkedIn URL on every single appli
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/job-autofill-extension.git
+git clone https://github.com/sumit1894/job-autofill-extension.git
 cd job-autofill-extension
 
 # 2. Install dependencies
