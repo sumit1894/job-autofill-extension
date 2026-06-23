@@ -172,8 +172,12 @@ function buildMappings(data) {
   return [
     // ── Personal ──
     {
-      keywords: ["full name", "fullname", "candidate name", "applicant name", "your name",
-        "first name", "firstname", "name"],
+      keywords: [
+        "full name", "fullname", "candidate name", "applicant name",
+        "your name", "name", "username", "user name", "first name",
+        "firstname", "last name", "lastname", "student name",
+        "contact name", "legal name", "display name"
+      ],
       value: data.fullName,
     },
     {
